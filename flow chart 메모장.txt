@@ -1,0 +1,12 @@
+계통
+특징
+운영 방법
+	1) 룰 베이스
+	1-1 룰 베이스 문제점
+	2) Deterministic opt
+	2-1 deter opt 문제점
+
+따라서, stoch opt 함
+
+-> 고려사항은 이러함
+
